@@ -1,0 +1,15 @@
+﻿venv/
+.env
+config/*.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+.vscode/
+reports/
+screenshots/
+videos/
+traces/
+logs/
+test-results/
+allure-results/
